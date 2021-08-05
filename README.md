@@ -3,8 +3,11 @@
 Inventory ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 I. readme file -> Describres the project and its framework.
+
 II. Juypter notebook -> The programing and execution of the project outline.
+
 III. Df_ds -> data used for the project.
+
 IV. Alltogether -> library shown in Audacity course.
 
 Buisness case -----------------------------------------------------------------------------------------------------------------------------------------------
