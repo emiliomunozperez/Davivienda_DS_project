@@ -8,9 +8,19 @@ II. Juypter notebook -> The programing and execution of the project outline.
 
 III. Df_ds -> data used for the project.
 
-IV. Alltogether -> library shown in Audacity course.
+IV. Alltogether -> library shown in Audacity course, .py file.
 
-Buisness case -----------------------------------------------------------------------------------------------------------------------------------------------
+Libraries used-----------------------------------------------------------------------------------------------------------------------------------------------
+
+numpy
+pandas
+matplotlib
+sklearn
+seaborn
+
++Udacity Alltogether code
+
+Project motivation-------------------------------------------------------------------------------------------------------------------------------------------
 
 A brief story about my current role and the ongoing project:
 Not so long ago I change a job in finance for the opportunity to work in one of the most promising new areas of my company, Marketing Intelligence. Its goal is to understand clients through data and experimental practices. As a beginner in analytics, this project is an opportunity to materialize some of my learnings and use the tools given by Udacity to bring up data solutions for a current business problem.
