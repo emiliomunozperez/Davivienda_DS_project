@@ -13,9 +13,13 @@ IV. Alltogether -> library shown in Audacity course, .py file.
 Libraries used-----------------------------------------------------------------------------------------------------------------------------------------------
 
 numpy
+
 pandas
+
 matplotlib
+
 sklearn
+
 seaborn
 
 +Udacity Alltogether code
