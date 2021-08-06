@@ -28,7 +28,7 @@ The project outline based on the CRISP methodology is as follows:
 Sadly in this case after all this work the r squared method was extremely low, letting us identify that the variables chosen doesn’t necessarily relate with the open rate. Therefore we need to try a search for new variables that could let us build a more accurate model or use a different kind of approach with a different model.
 
 
-## Libraries used
+## Requirements
 
 - numpy
 - pandas
