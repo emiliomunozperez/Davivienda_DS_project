@@ -1,0 +1,25 @@
+##Results
+
+This was an excelent project to get inmerse in the workflow of a Data Science, and the results to the business questions briefly explained are the following:
+
+1. Which are the most relevant client’s traits and how can they be group to get a better understanding of them?
+Demographic: Gender, age and income. 
+Psychographic: transactional forecasted affinities. 
+Business related: savings and investments products. 
+Behavioral: Digital affinity, saving behavior, spending behavior and credit behavior, credit score. 
+Geographical: City.
+
+2.  How does the open rate of emails behave in young clients, 18 to 30 years old?
+The open rate in young clients have a left skewed distribution, its mean is 9% but it has a considerable standard devation of 18%.
+
+3. Is a multivariate regression model based on the variables identified an acceptable model to predict open rate?
+The r^2 is too low to use this type of model in production.
+Therefore it's recomended to look for other models in order to get a better fit, random forest is a suggestion that should be evaluated.
+
+Readers can check a blog post in the following link:
+https://medium.com/@emilio.m16/attempt-to-forecast-email-openings-7a35d4d34d7a
+
+##Acknowledgments
+
+This project is based on Udacity nano degree for Data Science, and most of its content might be reviewed there.
+Also their reviewers made a great contributino to this project by correcting its content.
